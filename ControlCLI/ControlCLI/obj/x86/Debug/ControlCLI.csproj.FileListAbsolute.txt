@@ -1,0 +1,9 @@
+D:\Sistemas Negocios\SistemaCLI\ControlCLI\ControlCLI\bin\Debug\ControlCLI.exe
+D:\Sistemas Negocios\SistemaCLI\ControlCLI\ControlCLI\bin\Debug\ControlCLI.pdb
+D:\Sistemas Negocios\SistemaCLI\ControlCLI\ControlCLI\obj\x86\Debug\ControlCLI.Form1.resources
+D:\Sistemas Negocios\SistemaCLI\ControlCLI\ControlCLI\obj\x86\Debug\ControlCLI.Properties.Resources.resources
+D:\Sistemas Negocios\SistemaCLI\ControlCLI\ControlCLI\obj\x86\Debug\ControlCLI.csproj.GenerateResource.Cache
+D:\Sistemas Negocios\SistemaCLI\ControlCLI\ControlCLI\obj\x86\Debug\ControlCLI.exe
+D:\Sistemas Negocios\SistemaCLI\ControlCLI\ControlCLI\obj\x86\Debug\ControlCLI.pdb
+D:\Sistemas Negocios\SistemaCLI\ControlCLI\ControlCLI\obj\x86\Debug\ControlCLI.Form2.resources
+D:\Sistemas Negocios\SistemaCLI\ControlCLI\ControlCLI\obj\x86\Debug\ControlCLI.csprojResolveAssemblyReference.cache
