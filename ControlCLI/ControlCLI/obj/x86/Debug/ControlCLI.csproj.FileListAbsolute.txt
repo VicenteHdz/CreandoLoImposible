@@ -7,3 +7,12 @@ D:\Sistemas Negocios\SistemaCLI\ControlCLI\ControlCLI\obj\x86\Debug\ControlCLI.e
 D:\Sistemas Negocios\SistemaCLI\ControlCLI\ControlCLI\obj\x86\Debug\ControlCLI.pdb
 D:\Sistemas Negocios\SistemaCLI\ControlCLI\ControlCLI\obj\x86\Debug\ControlCLI.Form2.resources
 D:\Sistemas Negocios\SistemaCLI\ControlCLI\ControlCLI\obj\x86\Debug\ControlCLI.csprojResolveAssemblyReference.cache
+C:\Users\Vicente Hernandez\Documents\GitHub\CreandoLoImposible\ControlCLI\ControlCLI\obj\x86\Debug\ControlCLI.exe
+C:\Users\Vicente Hernandez\Documents\GitHub\CreandoLoImposible\ControlCLI\ControlCLI\obj\x86\Debug\ControlCLI.pdb
+C:\Users\Vicente Hernandez\Documents\GitHub\CreandoLoImposible\ControlCLI\ControlCLI\bin\Debug\ControlCLI.exe
+C:\Users\Vicente Hernandez\Documents\GitHub\CreandoLoImposible\ControlCLI\ControlCLI\bin\Debug\ControlCLI.pdb
+C:\Users\Vicente Hernandez\Documents\GitHub\CreandoLoImposible\ControlCLI\ControlCLI\obj\x86\Debug\ControlCLI.csprojResolveAssemblyReference.cache
+C:\Users\Vicente Hernandez\Documents\GitHub\CreandoLoImposible\ControlCLI\ControlCLI\obj\x86\Debug\ControlCLI.Form1.resources
+C:\Users\Vicente Hernandez\Documents\GitHub\CreandoLoImposible\ControlCLI\ControlCLI\obj\x86\Debug\ControlCLI.Form2.resources
+C:\Users\Vicente Hernandez\Documents\GitHub\CreandoLoImposible\ControlCLI\ControlCLI\obj\x86\Debug\ControlCLI.Properties.Resources.resources
+C:\Users\Vicente Hernandez\Documents\GitHub\CreandoLoImposible\ControlCLI\ControlCLI\obj\x86\Debug\ControlCLI.csproj.GenerateResource.Cache
